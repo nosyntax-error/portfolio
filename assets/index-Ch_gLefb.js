@@ -42,11 +42,11 @@ Error generating stack: `+e.message+`
             absolute inset-0 w-full h-full object-cover object-center
             transition-opacity duration-700 ease-in-out
             ${e?`opacity-0`:`opacity-100`}
-          `,loading:`eager`,draggable:`false`}),(0,f.jsx)(`img`,{src:`/banner_dark.jpg`,alt:`Ford Mustang GT3 – Nighttime`,className:`
+          `,loading:`eager`,fetchPriority:`high`,draggable:`false`}),(0,f.jsx)(`img`,{src:`/banner_dark.jpg`,alt:`Ford Mustang GT3 – Nighttime`,className:`
             absolute inset-0 w-full h-full object-cover object-center
             transition-opacity duration-700 ease-in-out
             ${e?`opacity-100`:`opacity-0`}
-          `,loading:`eager`,draggable:`false`}),(0,f.jsx)(`div`,{className:`
+          `,loading:`eager`,fetchPriority:`high`,draggable:`false`}),(0,f.jsx)(`div`,{className:`
             absolute inset-0 pointer-events-none
             bg-gradient-to-t from-black/20 via-transparent to-black/10
             dark:from-black/40 dark:via-transparent dark:to-black/20
