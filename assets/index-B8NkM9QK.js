@@ -38,7 +38,7 @@ Error generating stack: `+e.message+`
           shadow-lg shadow-black/10 dark:shadow-black/40
           border border-black/[0.05] dark:border-white/[0.06]
           transition-[border-color,box-shadow] duration-500 ease-in-out
-        `,children:[(0,f.jsx)(`img`,{src:`/banner_light.png`,alt:`Ford Mustang GT3 – Daytime`,className:`
+        `,children:[(0,f.jsx)(`img`,{src:`/banner_light.jpg`,alt:`Ford Mustang GT3 – Daytime`,className:`
             absolute inset-0 w-full h-full object-cover object-center
             transition-opacity duration-700 ease-in-out
             ${e?`opacity-0`:`opacity-100`}
