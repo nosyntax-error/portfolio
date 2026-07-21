@@ -81,7 +81,7 @@ export default function ProfileSection() {
             "
           >
             <svg
-              className="w-4 h-4 inline align-middle mr-1 -translate-y-[1px] fill-[#5865F2]"
+              className="w-5 h-5 inline align-middle mr-1 -translate-y-0.5 fill-[#5865F2]"
               viewBox="0 0 24 24"
               xmlns="http://www.w3.org/2000/svg"
             >
