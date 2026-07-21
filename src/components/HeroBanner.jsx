@@ -13,7 +13,7 @@ export default function HeroBanner({ isDark }) {
       >
         {/* Light mode image (daytime) */}
         <img
-          src="/banner_light.png"
+          src="/banner_light.jpg"
           alt="Ford Mustang GT3 – Daytime"
           className={`
             absolute inset-0 w-full h-full object-cover object-center
