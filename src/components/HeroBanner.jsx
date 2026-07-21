@@ -21,6 +21,7 @@ export default function HeroBanner({ isDark }) {
             ${isDark ? 'opacity-0' : 'opacity-100'}
           `}
           loading="eager"
+          fetchPriority="high"
           draggable="false"
         />
 
@@ -34,6 +35,7 @@ export default function HeroBanner({ isDark }) {
             ${isDark ? 'opacity-100' : 'opacity-0'}
           `}
           loading="eager"
+          fetchPriority="high"
           draggable="false"
         />
 
