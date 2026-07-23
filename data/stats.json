@@ -1,0 +1,16 @@
+{
+  "accountName": "MOHIT71208",
+  "accountType": "Instant 50K - Funded",
+  "status": "Active",
+  "platform": "Tradovate",
+  "startingBalance": 50000.00,
+  "currentBalance": 51926.21,
+  "currentEquity": 51926.21,
+  "dailyDrawdownLeft": 3426.21,
+  "dailyDrawdownLimit": 48500.00,
+  "maxDrawdownLeft": 2018.70,
+  "maxDrawdownLimit": 49907.51,
+  "consistency": 35.25,
+  "consistencyMax": 20.00,
+  "lastUpdated": "2026-07-23T12:00:00Z"
+}
