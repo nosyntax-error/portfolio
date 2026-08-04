@@ -60,7 +60,7 @@ Error generating stack: `+e.message+`
               text-[1.5rem] font-semibold tracking-tight leading-tight
               text-neutral-900 dark:text-white
               transition-colors duration-500
-            `,children:[`Mohit `,(0,f.jsx)(`span`,{className:`text-neutral-400 dark:text-neutral-500 font-normal transition-colors duration-500`,children:`(@nqmemoir)`})]}),(0,f.jsx)(`p`,{className:`
+            `,children:[`CRBN `,(0,f.jsx)(`span`,{className:`text-neutral-400 dark:text-neutral-500 font-normal transition-colors duration-500`,children:`(@carbonsplit)`})]}),(0,f.jsx)(`p`,{className:`
               text-[0.9rem] font-normal mt-1
               text-neutral-500 dark:text-neutral-400
               transition-colors duration-500
@@ -90,7 +90,7 @@ Error generating stack: `+e.message+`
                 text-[0.7rem] font-medium px-2 py-1.5 rounded shadow-lg
                 whitespace-nowrap pointer-events-none group-hover:pointer-events-auto
                 flex items-center gap-1.5
-              `,children:e?(0,f.jsxs)(f.Fragment,{children:[(0,f.jsx)(`svg`,{className:`w-3 h-3`,viewBox:`0 0 24 24`,fill:`none`,stroke:`currentColor`,strokeWidth:`2`,strokeLinecap:`round`,strokeLinejoin:`round`,children:(0,f.jsx)(`polyline`,{points:`20 6 9 17 4 12`})}),`Copied!`]}):(0,f.jsxs)(f.Fragment,{children:[(0,f.jsxs)(`svg`,{className:`w-3 h-3`,viewBox:`0 0 24 24`,fill:`none`,stroke:`currentColor`,strokeWidth:`2`,strokeLinecap:`round`,strokeLinejoin:`round`,children:[(0,f.jsx)(`rect`,{x:`9`,y:`9`,width:`13`,height:`13`,rx:`2`,ry:`2`}),(0,f.jsx)(`path`,{d:`M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1`})]}),`Copy`]})})]}),` `,`or message me on`,` `,(0,f.jsxs)(`a`,{href:`https://x.com/nqmemoir`,target:`_blank`,rel:`noopener noreferrer`,className:`
+              `,children:e?(0,f.jsxs)(f.Fragment,{children:[(0,f.jsx)(`svg`,{className:`w-3 h-3`,viewBox:`0 0 24 24`,fill:`none`,stroke:`currentColor`,strokeWidth:`2`,strokeLinecap:`round`,strokeLinejoin:`round`,children:(0,f.jsx)(`polyline`,{points:`20 6 9 17 4 12`})}),`Copied!`]}):(0,f.jsxs)(f.Fragment,{children:[(0,f.jsxs)(`svg`,{className:`w-3 h-3`,viewBox:`0 0 24 24`,fill:`none`,stroke:`currentColor`,strokeWidth:`2`,strokeLinecap:`round`,strokeLinejoin:`round`,children:[(0,f.jsx)(`rect`,{x:`9`,y:`9`,width:`13`,height:`13`,rx:`2`,ry:`2`}),(0,f.jsx)(`path`,{d:`M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1`})]}),`Copy`]})})]}),` `,`or message me on`,` `,(0,f.jsxs)(`a`,{href:`https://x.com/carbonsplit`,target:`_blank`,rel:`noopener noreferrer`,className:`
               inline-flex items-center
               text-neutral-900 dark:text-white font-medium
               hover:underline underline-offset-4 decoration-neutral-400/50
